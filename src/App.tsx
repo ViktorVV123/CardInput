@@ -14,6 +14,7 @@ function App() {
         "Пять",
         "Шесть",
         "Семь",
+        "dосемь"
     ];
     const data = [
          "half",
